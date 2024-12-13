@@ -1,13 +1,14 @@
 import Link from "next/link";
 
-import{FaGithub,FaLinkedin,FaYoutube,FaTwitter} from "react-icons/fa";
-
+import{FaGithub,FaLinkedin,FaBehance} from "react-icons/fa";
+//import{FaYoutube,FaTwitter} from "react-icons/fa";
 
 const socials=[
-    {icon:<FaGithub />, path:''},
-    {icon:<FaLinkedin />, path:''},
-    {icon:<FaYoutube />, path:''},
-    {icon:<FaTwitter />, path:''},
+    {icon:<FaGithub />, path:'https://github.com/adilramzan/adilramzan_'},
+    {icon:<FaLinkedin />, path:'www.linkedin.com/in/adil-ramzan-1509a5225'},
+    {icon:<FaBehance />, path:'https://www.behance.net/adilramzan_'},
+    //{icon:<FaYoutube />, path:''},
+    //{icon:<FaTwitter />, path:''},
 ]
 
 const Social=({containerStyles,iconStyles})=>{
