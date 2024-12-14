@@ -49,7 +49,7 @@ const projects = [
         description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Proin vulputate lectus sed libero consequat,sit amet ultrices erat malesuada",
         stack:[{name:"Java"},{name:"Xml"},{name:"MySql"}],
-        image:"/assets/06.jpg",
+        image:"/assets/w3.jpg",
         live:"",
         github:"",
     },
