@@ -25,7 +25,7 @@ const projects = [
         category:"fullstack",
         title:"project 1",
         description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Proin vulputate lectus sed libero consequat,sit amet ultrices erat malesuada",
+        "I developed this cake store website using python backend, flask framework and sqlite database.",
         stack:[{name:"Html 5"},{name:"Css 3"},{name:"JavaScript"},{name:"Bootstrap"},{name:"Flask"},],
         image:"/assets/cakestore.jpg",
         live:"",
@@ -36,22 +36,44 @@ const projects = [
         category:"fullstack",
         title:"project 2",
         description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Proin vulputate lectus sed libero consequat,sit amet ultrices erat malesuada",
-        stack:[{name:"Html 5"},{name:"Css 3"},{name:"Node.js"},{name:"MySql"}],
-        image:"/assets/03.jpg",
+        "I have created my portfolio using Next.Js and Tailwind Css.",
+        stack:[{name:"Nextjs"},{name:"tailwind css"}],
+        image:"/assets/prof.jpg",
         live:"",
-        github:"",
+        github:"https://github.com/adilramzan/adil-portfolio",
     },
     {
         num:"03",
         category:"App development",
         title:"project 3",
         description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Proin vulputate lectus sed libero consequat,sit amet ultrices erat malesuada",
-        stack:[{name:"Java"},{name:"Xml"},{name:"MySql"}],
+        "Medicare Application 1. Login 2. Registration 3. Lab Test : Shows Multiple Package details, add to cart, make order 4. Medicine : Shows Medicine List, add to cart, make order 5. Find Doctor : Search Specialist Doctor, book appointment 6. Health Articles : Article Information 7.Order Details : Order information 8.Logout 9.Profile set up and notes to remember medicine and prescriptions.",
+        stack:[{name:"Android Studio"},{name:"Java"},{name:"Xml"},{name:"MySql"}],
         image:"/assets/w3.jpg",
         live:"",
-        github:"",
+        github:"https://github.com/adilramzan/MediCareApp",
+    },
+    {
+        num: "04",
+        category: "Generative Model",
+        title: "project 4",
+        description:
+            "I have created this voice cloning generative model using speechbrain/spkrec-xvect-voxceleb and microsoft/speecht5_tts.",
+        stack: [{ name: "microsoft/speecht5_tts" }, { name: "speechbrain/spkrec-xvect-voxceleb" }],
+        image: "/assets/voicecloning.jpg",
+        live: "",
+        github: "https://github.com/adilramzan/Voice-Cloning-Generative-Model",
+    },
+    {
+        num: "05",
+        category: "App Development",
+        title: "project 5",
+        description:
+            "A multilingual mobile application for peoples to upload services and get jobs. A job platform using voice assistant and registration through ocr and voice recognition.",
+        stack: [{ name: "Reactjs" }, { name: "Expo" }, { name: "JavaScript" }, { name: "React Native" }],
+        image: "/assets/fyp.jpg",
+        live: "",
+        github: "",
     },
 
 ];

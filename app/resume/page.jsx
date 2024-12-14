@@ -8,6 +8,7 @@ import {
     FaFigma,
     FaNodeJs,
     FaPython,
+    FaJava,
 } from "react-icons/fa";
 
 import {SiTailwindcss,SiNextdotjs} from "react-icons/si";
@@ -16,7 +17,7 @@ import {SiTailwindcss,SiNextdotjs} from "react-icons/si";
 const about={
     title:"About me",
     description:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Proin vulputate lectus sed libero consequat,sit amet ultrices erat malesuada",
+    "Enthusiastic Computer Science student with a strong foundation in C++, Python, OOP, Data Structures, Database Management, SQL, App Development, Cloud Computing, Generative AI and Web Development. Eager to learn new skills and tools by joining your company.",
     info:[
         {
             fieldName:"Name",
@@ -57,7 +58,7 @@ const experience ={
     icons:"",
     title:"My experience",
     description:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Proin vulputate lectus sed libero consequat,sit amet ultrices erat malesuada",
+    "I have Worked in Web Development(MERN,FLASK,NEXTJS), App Development(React Native,Expo,Redux,Andriod Studio),Generative AI Models,OPENCV, OCR MODEL,CHATBOT,VOICE RECOGNITION,VOICE ASSISTANT, APIs, DATABASE MANAGEMENT, CLOUD PRACTITIONER ",
     items:[
         {
             company:"RDEVSOL",
@@ -88,7 +89,7 @@ const education ={
     icons:"",
     title:"My education",
     description:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Proin vulputate lectus sed libero consequat,sit amet ultrices erat malesuada",
+    "Key Courses: Object Oriented Programming (C++), Database Systems (SQL), Web Development (Flask, Python), React Native App Development, Artificial Intelligence, Data Structures, Design & Analysis of Algorithms, Operating Systems,MERN Stack, Web design, and App design.",
     items:[
         {
             institution:"FAST NUCES Islamabad",
@@ -117,11 +118,15 @@ const education ={
 const skills = {
     title:"My skills",
     description:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Proin vulputate lectus sed libero consequat,sit amet ultrices erat malesuada",
+    "I have worked on these skill in my university projects and some paid projects as well.",
     skillList:[
         {
             icon:<FaPython/>,
             name:"Python",
+        },
+        {
+            icon:<FaJava/>,
+            name:"Java",
         },
         {
             icon:<FaHtml5/>,

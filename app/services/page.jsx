@@ -7,25 +7,25 @@ const services = [
     {
         num:"01",
         title:"Web Development",
-        description:"Lorum ipsum dolor sit amet consectetur edipisicing elit. Eaque tenetur.",
+        description:"I have 2 year of experience in web development with multiple technologies.",
         href:"",
     },
     {
         num:"02",
         title:"UI/UX Design",
-        description:"Lorum ipsum dolor sit amet consectetur edipisicing elit. Eaque tenetur.",
+        description:"I have designs websites and apps for different clients, So if you are looking for a better user experience contact me.",
         href:"",
     },
     {
         num:"03",
         title:"App Development",
-        description:"Lorum ipsum dolor sit amet consectetur edipisicing elit. Eaque tenetur.",
+        description:"I have speciality in Android Studio to develop Apps using java,firebase,sql,xml and in Ract Native,Expo,Redux.",
         href:"",
     },
     {
         num:"04",
-        title:"SEO",
-        description:"Lorum ipsum dolor sit amet consectetur edipisicing elit. Eaque tenetur.",
+        title:"Generative Models",
+        description:"I have worked on generative and deep learning models. Provide services and will work in generative AI research.",
         href:"",
     },
 ]
