@@ -27,9 +27,9 @@ const projects = [
         description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Proin vulputate lectus sed libero consequat,sit amet ultrices erat malesuada",
         stack:[{name:"Html 5"},{name:"Css 3"},{name:"JavaScript"},{name:"Bootstrap"},{name:"Flask"},],
-        image:"/assets/01.jpg",
+        image:"/assets/cakestore.jpg",
         live:"",
-        github:"",
+        github:"https://github.com/adilramzan/cake_store",
     },
     {
         num:"02",
